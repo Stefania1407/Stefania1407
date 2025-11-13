@@ -1,8 +1,8 @@
 <h1 align="center" style="color:#e8a0b8;">
-  🌸 Stefania Rendón Amórtegui 🌸  
+   Stefania Rendón Amórtegui 
 </h1>
 
-<h3 align="center" style="color:#e8a0b8;">Desarrolladora de Software | Full Stack Developer</h3>
+<h3 align="center" style="color:#e8a0b8;">Desarrolladora de Software </h3>
 
 ---
 
