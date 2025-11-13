@@ -2,7 +2,7 @@
 
 <img src="TU_BANNER_AQUI" width="100%" />
 
-# ✨ Hola, soy **Stefania Rendón Amórtegui**  
+# **Stefania Rendón Amórtegui**
 ### Desarrolladora de Software
 
 </div>
@@ -30,7 +30,7 @@ Me caracterizo por mi creatividad, atención al detalle y mi deseo constante de 
 <p>
   <img src="https://img.shields.io/badge/HTML5-f0b6c8?style=flat&logo=html5&logoColor=white&labelColor=af6a8b" />
   <img src="https://img.shields.io/badge/CSS3-efc2d3?style=flat&logo=css3&logoColor=white&labelColor=b77c9b" />
-  <img src="https://img.shields.io/bbadge/JavaScript-f8d0dd?style=flat&logo=javascript&logoColor=white&labelColor=bf7ea0" />
+  <img src="https://img.shields.io/badge/JavaScript-f8d0dd?style=flat&logo=javascript&logoColor=white&labelColor=bf7ea0" />
   <img src="https://img.shields.io/badge/TypeScript-f9d8e4?style=flat&logo=typescript&logoColor=white&labelColor=c287ab" />
   <img src="https://img.shields.io/badge/React-f7cfe0?style=flat&logo=react&logoColor=white&labelColor=b57393" />
 </p>
@@ -53,7 +53,6 @@ Me caracterizo por mi creatividad, atención al detalle y mi deseo constante de 
 ---
 
 ## 🌸 Contacto  
-
 📧 **Correo:** stefaniarendon1407@gmail.com  
 💼 **LinkedIn:** [Stefania Rendón Amórtegui](https://www.linkedin.com/in/stefania-rendon-amortegui-123752394)
 
@@ -62,9 +61,7 @@ Me caracterizo por mi creatividad, atención al detalle y mi deseo constante de 
 <div align="center">
 
 <h2 style="color:#e8a0b8; font-weight:700;">
-  
 ✨ <span class="animate-text">Stefania Rendón</span> ✨
-
 </h2>
 
 </div>
