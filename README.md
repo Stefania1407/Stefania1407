@@ -61,18 +61,8 @@ Me caracterizo por mi creatividad, atención al detalle y mi deseo constante de 
 <div align="center">
 
 <h2 style="color:#e8a0b8; font-weight:700;">
-✨ <span class="animate-text">Stefania Rendón</span> ✨
+ <span class="animate-text">Stefania Rendón</span> 
 </h2>
 
 </div>
 
-<style>
-@keyframes pastelGlow {
-  0% {opacity: 0.3;}
-  50% {opacity: 1;}
-  100% {opacity: 0.3;}
-}
-.animate-text {
-  animation: pastelGlow 3s ease-in-out infinite;
-}
-</style>
