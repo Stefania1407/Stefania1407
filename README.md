@@ -3,7 +3,7 @@
 <img src="TU_BANNER_AQUI" width="100%" />
 
 # ✨ Hola, soy **Stefania Rendón Amórtegui**  
-### Desarrolladora de Software 
+### Desarrolladora de Software
 
 </div>
 
@@ -12,7 +12,7 @@
 ## 🌸 Sobre mí  
 Soy desarrolladora de software con enfoque en el **frontend**, especialmente en la creación de interfaces limpias, modernas y visualmente atractivas.  
 Me gusta combinar diseño, usabilidad y funcionalidad para construir experiencias agradables y fáciles de usar.  
-Me caracterizo por mi creatividad, atención al detalle y mi constante deseo de mejorar.
+Me caracterizo por mi creatividad, atención al detalle y mi deseo constante de aprender y mejorar.
 
 ---
 
@@ -20,38 +20,37 @@ Me caracterizo por mi creatividad, atención al detalle y mi constante deseo de 
 
 ### **Backend**
 <p>
-  <img src="https://img.shields.io/badge/Java-f8c6d0?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-e5a4b3?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-f2c9d8?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-f7b6c7?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-f7d6e0?style=flat&logo=java&logoColor=white&labelColor=ce93b3" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-f5c9d3?style=flat&logo=springboot&logoColor=white&labelColor=b980a5" />
+  <img src="https://img.shields.io/badge/Python-f3b9cb?style=flat&logo=python&logoColor=white&labelColor=ad6f8f" />
+  <img src="https://img.shields.io/badge/Node.js-f0a9bf?style=flat&logo=node.js&logoColor=white&labelColor=9c5f7f" />
 </p>
 
-### **Frontend**
+### **Interfaz**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-f2d1da?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-f3c4d3?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f8c0cd?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-eab6c8?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-ecb6ca?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-f0b6c8?style=flat&logo=html5&logoColor=white&labelColor=af6a8b" />
+  <img src="https://img.shields.io/badge/CSS3-efc2d3?style=flat&logo=css3&logoColor=white&labelColor=b77c9b" />
+  <img src="https://img.shields.io/bbadge/JavaScript-f8d0dd?style=flat&logo=javascript&logoColor=white&labelColor=bf7ea0" />
+  <img src="https://img.shields.io/badge/TypeScript-f9d8e4?style=flat&logo=typescript&logoColor=white&labelColor=c287ab" />
+  <img src="https://img.shields.io/badge/React-f7cfe0?style=flat&logo=react&logoColor=white&labelColor=b57393" />
 </p>
 
-### **Bases de Datos**
+### **Bases de datos**
 <p>
-  <img src="https://img.shields.io/badge/MySQL-f4c2cf?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-f2b7ca?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-f1a7c4?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-fbd5e3?style=flat&logo=mysql&logoColor=white&labelColor=c68aa8" />
+  <img src="https://img.shields.io/badge/MariaDB-f7c1d6?style=flat&logo=mariadb&logoColor=white&labelColor=b56f8f" />
+  <img src="https://img.shields.io/badge/Oracle-f4b0c6?style=flat&logo=oracle&logoColor=white&labelColor=a95c7a" />
 </p>
 
 ### **Herramientas**
 <p>
-  <img src="https://img.shields.io/badge/Git-f7c0d3?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-f8d0dd?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-ecc8d6?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-f1c0cb?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-f6cada?style=flat&logo=git&logoColor=white&labelColor=ba6d8d" />
+  <img src="https://img.shields.io/badge/GitHub-f8d9e4?style=flat&logo=github&logoColor=white&labelColor=c0819e" />
+  <img src="https://img.shields.io/badge/Postman-f5c2d3?style=flat&logo=postman&logoColor=white&labelColor=ad6f8f" />
+  <img src="https://img.shields.io/badge/Figma-f2bbcd?style=flat&logo=figma&logoColor=white&labelColor=a66080" />
 </p>
 
 ---
-
 
 ## 🌸 Contacto  
 
