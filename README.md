@@ -7,17 +7,17 @@
 ---
 
 ## 🌷 Sobre mí  
-Soy una desarrolladora de software apasionada por crear soluciones funcionales, eficientes y visualmente atractivas.  
-Me caracterizo por mi adaptabilidad, pensamiento crítico, trabajo colaborativo y orientación a resultados.  
-Disfruto aprender nuevas tecnologías, resolver problemas y construir experiencias que realmente aporten valor.
+Soy una desarrolladora de software con gran interés en crear soluciones eficientes, limpias y visualmente atractivas.  
+Me caracterizo por mi responsabilidad, adaptabilidad, pensamiento crítico y pasión por el aprendizaje constante.  
+Disfruto trabajar en equipo, crear interfaces intuitivas y desarrollar aplicaciones completas del lado frontend y backend.
 
 ---
 
 ## 💌 Contacto  
 
-📧 **Correo:** tu correo (si deseas lo agrego)  
+📧 **Correo:** stefaniarendon1407@gmail.com  
 🐙 **GitHub:** [Stefania1407](https://github.com/Stefania1407)  
-💼 **LinkedIn:** (si tienes perfil te agrego uno estilizado)
+💼 **LinkedIn:** [Stefania Rendón Amórtegui](https://www.linkedin.com/in/stefania-rendon-amortegui-123752394)
 
 ---
 
@@ -51,12 +51,12 @@ Disfruto aprender nuevas tecnologías, resolver problemas y construir experienci
 ## 🎨 Habilidades
 
 - Desarrollo Full Stack  
-- Construcción de interfaces limpias y modernas  
+- Diseño y construcción de interfaces modernas  
 - Diagramación y modelado UML  
-- Control de versiones con Git  
+- Control de versiones con Git/GitHub  
 - Diseño UI/UX básico  
-- Solución creativa de problemas  
-- Análisis lógico y pensamiento estructurado  
+- Resolución de problemas  
+- Pensamiento analítico y trabajo en equipo  
 
 ---
 
@@ -64,24 +64,25 @@ Disfruto aprender nuevas tecnologías, resolver problemas y construir experienci
 
 ### 💗 **VidaFit**
 Aplicación web enfocada en bienestar y rutinas saludables.  
-Tecnologías: *Java, Spring Boot, MySQL, HTML, CSS.*
+**Tecnologías:** Java, Spring Boot, MySQL, HTML, CSS.
 
 ---
 
 ### 💗 **Proyecto Parqueadero**
 Sistema para la gestión y control de parqueaderos.  
-Tecnologías: *Java, MySQL, MVC.*
+**Tecnologías:** Java, MySQL, MVC.
 
 ---
 
 ### 💗 **Conversor de Moneda**
-Aplicación para convertir divisas con API externa.  
-Tecnologías: *TypeScript, Node.js.*
+Aplicación para convertir divisas usando API externa.  
+**Tecnologías:** TypeScript, Node.js.
 
 ---
 
 ### 💗 **Página Web HTML**
-Sitio web estático desarrollado desde cero utilizando HTML y CSS.
+Sitio web estático desarrollado desde cero con diseño limpio y organizado.  
+**Tecnologías:** HTML, CSS.
 
 ---
 
@@ -98,4 +99,4 @@ Sitio web estático desarrollado desde cero utilizando HTML y CSS.
 ---
 
 ## 🌷 Gracias por visitar mi perfil
-✨ *Siempre lista para aprender, crear y mejorar.*  
+✨ *Siempre aprendiendo, creando y mejorando.*  
