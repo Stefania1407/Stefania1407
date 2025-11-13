@@ -58,33 +58,6 @@ Disfruto trabajar en equipo, crear interfaces intuitivas y desarrollar aplicacio
 - Resolución de problemas  
 - Pensamiento analítico y trabajo en equipo  
 
----
-
-## 🌸 Proyectos Destacados  
-
-### 💗 **VidaFit**
-Aplicación web enfocada en bienestar y rutinas saludables.  
-**Tecnologías:** Java, Spring Boot, MySQL, HTML, CSS.
-
----
-
-### 💗 **Proyecto Parqueadero**
-Sistema para la gestión y control de parqueaderos.  
-**Tecnologías:** Java, MySQL, MVC.
-
----
-
-### 💗 **Conversor de Moneda**
-Aplicación para convertir divisas usando API externa.  
-**Tecnologías:** TypeScript, Node.js.
-
----
-
-### 💗 **Página Web HTML**
-Sitio web estático desarrollado desde cero con diseño limpio y organizado.  
-**Tecnologías:** HTML, CSS.
-
----
 
 ## 🌸 Estadísticas de GitHub
 
