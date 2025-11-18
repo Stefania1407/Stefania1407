@@ -29,7 +29,7 @@ Me caracterizo por mi creatividad, atención al detalle y mi deseo constante de 
 ### **Interfaz**
 <p>
   <img src="https://img.shields.io/badge/HTML5-f0b6c8?style=flat&logo=html5&logoColor=white&labelColor=af6a8b" />
-  <img src="https://img.shields.io/badge/CSS3-efc2d3?style=flat&logo=css3&logoColor=white&labelColor=b77c9b" />
+  <img src="https://img.shields.io/badge/CSS-efc2d3?style=flat&logo=css3&logoColor=white&labelColor=b77c9b" />
   <img src="https://img.shields.io/badge/JavaScript-f8d0dd?style=flat&logo=javascript&logoColor=white&labelColor=bf7ea0" />
   <img src="https://img.shields.io/badge/TypeScript-f9d8e4?style=flat&logo=typescript&logoColor=white&labelColor=c287ab" />
   <img src="https://img.shields.io/badge/React-f7cfe0?style=flat&logo=react&logoColor=white&labelColor=b57393" />
@@ -53,7 +53,7 @@ Me caracterizo por mi creatividad, atención al detalle y mi deseo constante de 
 ---
 
 ## 🌸 Contacto  
-📧 **Correo:** stefaniarendon1407@gmail.com  
+📧 **Correo:** stefania.rendon.a@gmail.com  
 💼 **LinkedIn:** [Stefania Rendón Amórtegui](https://www.linkedin.com/in/stefania-rendon-amortegui-123752394)
 
 ---
